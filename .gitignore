@@ -12,6 +12,9 @@
 
 
 /src/components/
+/src/about/
+/src/dashboard/
+/src/events/
 # testing
 /coverage
 
